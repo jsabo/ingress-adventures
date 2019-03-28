@@ -7,8 +7,6 @@ Welcome to the adventures of Kubernetes ingress
 
 ## Setup
 
-Let's do some ingress role playing.
-
 We're going to install [multiple](https://kubernetes.github.io/ingress-nginx/user-guide/multiple-ingress/#multiple-ingress-nginx-controllers) nginx ingress controllers in different configurations to test out things like HTTP/2.
 
 First let's try your standard prision issue nginx ingress setup as `Type: LoadBalancer`.
