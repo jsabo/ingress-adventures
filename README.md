@@ -39,6 +39,6 @@ nginx-ingress-elb-default-backend-c7b88b4bd-lfbnh   1/1     Running   0         
 ```
 $ kubectl get pods -n nginx-ingress-np
 NAME                                                     READY   STATUS    RESTARTS   AGE
-nginx-ingress-np-controller-849dc9b44d-z6ch8       1/1   Running   0       2m59s
-nginx-ingress-np-default-backend-cb494ddc6-ksgwz   1/1   Running   0       2m59s
+nginx-ingress-np-controller-849dc9b44d-z6ch8             1/1     Running   0          2m59s
+nginx-ingress-np-default-backend-cb494ddc6-ksgwz         1/1     Running   0          2m59s
 ```
