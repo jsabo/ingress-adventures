@@ -1,13 +1,12 @@
-# ingress-adventures
-Adventures in Kubernetes ingress controllers
+# nginx ingress
 
 ## Overview
 
-Welcome to the adventures of Kubernetes ingress
+Welcome to the adventures of Nginx ingress
 
 ## Setup
 
-Let's do some ingress role playing.
+Let's do some some nginx ingress role playing.
 
 We're going to install [multiple](https://kubernetes.github.io/ingress-nginx/user-guide/multiple-ingress/#multiple-ingress-nginx-controllers) nginx ingress controllers in different configurations to test out things like HTTP/2.
 
