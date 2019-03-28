@@ -30,8 +30,6 @@ helm install stable/nginx-ingress \
   --namespace nginx-ingress-np
 ```
 
-## Verify Setup
-
 ```
 $ kubectl get pods -n nginx-ingress-elb
 NAME                                                READY   STATUS    RESTARTS   AGE
